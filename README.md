@@ -23,8 +23,8 @@ Test the C Program for the desired output.
 
 # PROGRAM:
 
-### NAME: ARCHANA T
-### REGISTER NUMBER : 212223240013
+### NAME: HEMAVATHY S
+### REGISTER NUMBER : 212223230076
 ## C Program to print process ID and parent Process ID using Linux API system calls
 ```
 
